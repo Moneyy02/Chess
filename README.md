@@ -1,20 +1,21 @@
-🏰 Chess Game Online
-<p align="center"> <img src="https://tse1.mm.bing.net/th/id/OIP.AhnWREIHIB3jeW1d4TVKfAHaEo?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Chess Board Screenshot" width="500"> </p> <p align="center"> <strong>Play Chess Online in Real-Time with Drag-and-Drop Pieces! ♟️♔</strong> </p>
-✨ Features
+<img width="8000" height="4501" alt="image" src="https://github.com/user-attachments/assets/4397f85b-c852-4a20-bfa3-e50041972752" />🏰 CHESS GAME ONLINE
+<p align="center"> <img src="https://wallpapercave.com/wp/wp9067333.jpg
+" alt="Chess Board Screenshot" width="500"> </p> <p align="center"> <strong>Play Chess Online in Real-Time with Drag-and-Drop Pieces! ♟️♔</strong> </p>
+✨ FEATURES
 
 🎨 Beautiful Chessboard Layout with Unicode chess pieces
 
 👥 Two-Player Real-Time Gameplay using Socket.IO
 
-🖱️ Drag-and-Drop functionality for pieces
+🖱️ Drag-and-Drop Pieces
 
-🎮 Playable by Spectators (watch the game live)
+🎮 Spectator Mode to watch live games
 
 💡 Valid Chess Moves enforced by chess.js
 
-🌐 Responsive Design using Tailwind CSS
+🌐 Responsive Design with Tailwind CSS
 
-🛠️ Technologies Used
+🛠️ TECHNOLOGIES USED
 
 Frontend: HTML, CSS, Tailwind CSS, JavaScript
 
@@ -26,39 +27,33 @@ Chess Logic: chess.js
 
 Template Engine: EJS
 
-📸 Screenshots
-Game Lobby / Board
-<p align="center"> <img src="https://i.ibb.co/YdKq0TX/chess-game.png" alt="Chess Game Screenshot" width="600"> </p>
-Drag & Drop Pieces
-<p align="center"> <img src="https://i.ibb.co/QPZQ3Bf/chess-drag.png" alt="Drag Drop Screenshot" width="600"> </p>
-🚀 Getting Started
-1. Clone the repository
+🚀 GETTING STARTED
+1️⃣ Clone the repository
 git clone https://github.com/Moneyy02/Chess.git
 cd Chess
 
-2. Install dependencies
+2️⃣ Install dependencies
 npm install
 
-3. Run the server
+3️⃣ Run the server
 node server.js
 
-4. Open in browser
+4️⃣ Open in browser
 
 Navigate to: http://localhost:3000
+Invite a friend to play! 👥
 
-Invite a friend in another tab or device to play! 👥
+🎯 HOW TO PLAY
 
-🎯 How to Play
-
-Each player is assigned white ♔ or black ♚ automatically
+Each player is assigned White ♔ or Black ♚ automatically
 
 Drag your pieces to valid squares to make moves
 
-Spectators can watch the game in real-time
+Spectators can watch the game live
 
 The game enforces valid chess rules, including pawn promotion
 
-💻 Project Structure
+💻 PROJECT STRUCTURE
 Chess/
 ├─ public/
 │  ├─ css/
@@ -70,7 +65,7 @@ Chess/
 ├─ package.json
 └─ README.md
 
-🤝 Contributing
+🤝 CONTRIBUTING
 
 Fork the project
 
@@ -82,6 +77,6 @@ Push to branch: git push origin feature-name
 
 Create a Pull Request
 
-📜 License
+📜 LICENSE
 
-This project is open-source. Feel free to use and improve it! 🛡️
+This project is open-source. Feel free to use, modify, and share! 🛡️
