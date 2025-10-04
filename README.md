@@ -1,6 +1,9 @@
-<img width="8000" height="4501" alt="image" src="https://github.com/user-attachments/assets/4397f85b-c852-4a20-bfa3-e50041972752" />🏰 CHESS GAME ONLINE
+<img width="8000" height="4501" alt="image" src="https://github.com/user-attachments/assets/4397f85b-c852-4a20-bfa3-e50041972752" />
 
+🏰 CHESS GAME ONLINE
+------------------------------------------------------------
 ✨ FEATURES
+----------------------------------------------------------
 
 🎨 Beautiful Chessboard Layout with Unicode chess pieces
 
@@ -15,7 +18,7 @@
 🌐 Responsive Design with Tailwind CSS
 
 🛠️ TECHNOLOGIES USED
-
+-------------------------------------------------
 Frontend: HTML, CSS, Tailwind CSS, JavaScript
 
 Backend: Node.js, Express.js
@@ -27,6 +30,7 @@ Chess Logic: chess.js
 Template Engine: EJS
 
 🚀 GETTING STARTED
+---------------------------------------
 1️⃣ Clone the repository
 git clone https://github.com/Moneyy02/Chess.git
 cd Chess
@@ -43,6 +47,7 @@ Navigate to: http://localhost:3000
 Invite a friend to play! 👥
 
 🎯 HOW TO PLAY
+----------------------------------------------------
 
 Each player is assigned White ♔ or Black ♚ automatically
 
@@ -53,6 +58,7 @@ Spectators can watch the game live
 The game enforces valid chess rules, including pawn promotion
 
 💻 PROJECT STRUCTURE
+-----------------------------------
 Chess/
 ├─ public/
 │  ├─ css/
@@ -65,6 +71,7 @@ Chess/
 └─ README.md
 
 🤝 CONTRIBUTING
+-------------------------------------
 
 Fork the project
 
