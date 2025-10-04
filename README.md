@@ -1,6 +1,5 @@
 <img width="8000" height="4501" alt="image" src="https://github.com/user-attachments/assets/4397f85b-c852-4a20-bfa3-e50041972752" />🏰 CHESS GAME ONLINE
-<p align="center"> <img src="https://wallpapercave.com/wp/wp9067333.jpg
-" alt="Chess Board Screenshot" width="500"> </p> <p align="center"> <strong>Play Chess Online in Real-Time with Drag-and-Drop Pieces! ♟️♔</strong> </p>
+
 ✨ FEATURES
 
 🎨 Beautiful Chessboard Layout with Unicode chess pieces
