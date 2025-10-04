@@ -60,14 +60,23 @@ The game enforces valid chess rules, including pawn promotion
 💻 PROJECT STRUCTURE
 -----------------------------------
 Chess/
+
 ├─ public/
+
 │  ├─ css/
+
 │  ├─ js/
+
 │  │  └─ chessgame.js
+
 ├─ views/
+
 │  └─ index.ejs
+
 ├─ server.js
+
 ├─ package.json
+
 └─ README.md
 
 🤝 CONTRIBUTING
@@ -84,5 +93,6 @@ Push to branch: git push origin feature-name
 Create a Pull Request
 
 📜 LICENSE
+---------------------------------
 
 This project is open-source. Feel free to use, modify, and share! 🛡️
