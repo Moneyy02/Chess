@@ -1,5 +1,5 @@
 🏰 Chess Game Online
-<p align="center"> <img src="https://i.ibb.co/0nVhtX6/chess-board.png" alt="Chess Board Screenshot" width="500"> </p> <p align="center"> <strong>Play Chess Online in Real-Time with Drag-and-Drop Pieces! ♟️♔</strong> </p>
+<p align="center"> <img src="https://tse1.mm.bing.net/th/id/OIP.AhnWREIHIB3jeW1d4TVKfAHaEo?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Chess Board Screenshot" width="500"> </p> <p align="center"> <strong>Play Chess Online in Real-Time with Drag-and-Drop Pieces! ♟️♔</strong> </p>
 ✨ Features
 
 🎨 Beautiful Chessboard Layout with Unicode chess pieces
